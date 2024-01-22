@@ -27,3 +27,8 @@ Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;"
 | Quizzes + Assignments                  | 20% |
 |Mid-term Exams                          | 30% |
 |End-term Exam (Final)                   | 50% |
+
+### Course Books
+-  Numerical Analysis by Burden and Faires (9th Edition or later).
+-  Numerical Methods using MATLAB by John H. Mathews and Kurtis D. Fink.
+-  Applied Numerical Methods with Matlab for Engineers and Scientist. Steven C,Chapra
